@@ -1,0 +1,47 @@
+.social-icon{
+display:'flex';
+justify-content: 'center';
+align-items: 'center';
+}
+.icon2{
+margin-right: 10px;
+margin-left: 15px;
+}
+
+.domain1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.decor1{
+    margin-left: 34%;
+}
+
+.education-container{
+    display:flex;
+    flex-direction: column;
+}
+
+.education-stage{
+    border: 2px;
+    border-radius:25px;
+    padding: 3px;
+    margin: 20px;
+    margin-left: 50px;
+    text-align: center;
+    max-width: 600px;
+    max-height: 200px;
+    
+}
+.degree1{
+    border: 2px;
+    border-radius:25px;
+    padding: 3px;
+    text-align: center;
+    margin-left: 50px;
+    max-width: 600px;
+    max-height: 200px;
+    box-shadow:5px 5px 10px 10px rgb(60, 195, 125);
+}
+.img1{
+    border-radius: 25px;
+}
